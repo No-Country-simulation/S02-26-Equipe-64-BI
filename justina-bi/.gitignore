@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dados grandes
+data/raw/
+data/staging/
+data/mart/fato_*.parquet
+*.zip
+
+# Sistema
+.DS_Store
