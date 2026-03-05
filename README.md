@@ -1,3 +1,14 @@
+
+
+
+
+<img width="801" height="531" alt="Capa apresentação" src="https://github.com/user-attachments/assets/f8d4e141-c8ab-4edc-98c7-0b223d30f8f2" />
+
+
+
+
+
+
 # 🏥 Business Intelligence para Robótica Cirúrgica – Projeto Justina
 
 ## 🎯 Objetivo
@@ -65,7 +76,11 @@ MART → Tabelas analíticas (fato_cirurgia_renal)
 
 ## 🔹 TAM (Total Addressable Market)
 
-Total de **cirurgias renais realizadas no SUS** no período de 2022 a 2024 nos estados:
+
+
+
+
+Quantidade Total de **cirurgias renais realizadas no SUS** no período de 2022 a 2024 nos estados:
 
 | Estado | Cirurgias |
 |------|------|
@@ -75,6 +90,20 @@ Total de **cirurgias renais realizadas no SUS** no período de 2022 a 2024 nos e
 | RJ | 6.705 |
 
 **Total estimado:** ~60 mil cirurgias no período analisado.
+
+
+
+### <img width="1135" height="908" alt="cirurgias_tam_por_uf" src="https://github.com/user-attachments/assets/aed4152f-a81c-422e-aa01-2fadb84281d8" />
+
+
+
+
+
+<img width="1148" height="908" alt="gasto_tam_por_uf" src="https://github.com/user-attachments/assets/48679430-724b-4d10-916a-238abdc570be" />
+
+
+
+
 
 ---
 
@@ -96,6 +125,17 @@ Hospitais que possuem:
 | RS | 48 |
 | RJ | 44 |
 | PR | 37 |
+
+
+
+
+
+<img width="1191" height="872" alt="centro_cirurgico_vs_renal" src="https://github.com/user-attachments/assets/f72b1092-1be1-492d-8d7e-6ad30ee42666" />
+
+
+
+
+
 
 ---
 
@@ -145,8 +185,31 @@ Os hospitais prioritários possuem:
 - Alta complexidade
 - Perfil de hospital universitário ou de referência
 
+## 🔹 SOM - Estimativa de hospitais para serem conquistada
+
+
+
+
+
+
+
+<img width="1163" height="870" alt="distribuicao_custo_hospital" src="https://github.com/user-attachments/assets/f711e276-8571-41b4-a3f3-6b35f308624b" />
+
+
+
+
+
+
+<img width="1162" height="909" alt="volume_vs_custo_uf" src="https://github.com/user-attachments/assets/9f998750-a463-4e19-869a-dcbf6cab4c4b" />
+
+
+
+
+
+
 **Conclusão:**  
 São **candidatos viáveis para adoção de cirurgia robótica**.
+
 
 ---
 
@@ -230,12 +293,12 @@ Com acréscimo médio de **R$ 5.000 por cirurgia**
 
 
 
-### <img width="1135" height="908" alt="cirurgias_tam_por_uf" src="https://github.com/user-attachments/assets/aed4152f-a81c-422e-aa01-2fadb84281d8" />
 
 
 
 
-<img width="1148" height="908" alt="gasto_tam_por_uf" src="https://github.com/user-attachments/assets/48679430-724b-4d10-916a-238abdc570be" />
+
+
 
 
 
@@ -269,12 +332,6 @@ Com acréscimo médio de **R$ 5.000 por cirurgia**
 
 
 <img width="1260" height="938" alt="scatter_cirurgias_vs_gasto_tam" src="https://github.com/user-attachments/assets/a3ac4efb-e9cd-4859-8edc-b4e3362e479d" />
-
-
-
-
-
-<img width="1163" height="870" alt="distribuicao_custo_hospital" src="https://github.com/user-attachments/assets/05898bfa-7b2a-4b4b-8697-a901f9418553" />
 
 
 
